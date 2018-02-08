@@ -1,1 +1,3 @@
 Project 2
+is asked to use bit-flipping on an encrypted datum simulating a row of a database. There are two encryptions
+of the same text below. One uses an 8B block-code DES with CBC. The other one uses a stream cipher.
