@@ -1,4 +1,4 @@
-Project 1: Cracking Classical Codes
+# Project 1: Cracking Classical Codes
 This project asks you to crack several classical codes. What you should learn from this is that
 crypt-analysis is possible and that you do not know enough to invent your own codes. Other
 than that, it is an intellectual exercise strengthening your capability to draw conclusions from
