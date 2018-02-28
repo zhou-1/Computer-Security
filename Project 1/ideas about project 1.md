@@ -7,7 +7,7 @@ After decoding, we find the results here are format of English characters
 There are steps we followed to decode  
 step 1: Find the coincidence of each displacement (like how mant times value of the first displacement appear in whole text)  
 step 2: Create a curve graph for each displacement and coincidence of each displacement  
-step 3: Find the high point in the graph, figure out the relationship between them (find any multiple of a number, like displacement 13, 26, 39, 52....) 
+step 3: Find the high point in the graph, figure out the relationship between them (find any multiple of a number, like displacement 13, 26, 39, 52....)   
 step 4: That basic number (i.e. 13 mentioned in step 13) is the key length  
 step 5: <b> guess step </b> Use XOR method with Xor.py to do following thing: cyper text (after encode) XOR key to get the password
 Since e is the most frequent one in English, space (" ") is the most frequent one in all plain text/original text with not only English
