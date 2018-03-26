@@ -1,4 +1,4 @@
-# roject 3 Computer Security       
+# Project 3 Computer Security       
 This assumes that you have read the pen-testing module.     
 By  Eastern, lucy.mscs.mu.edu  will  become  operable  on  port  80.     
 Just  direct  your  browser  to lucy. There you will find a page that directs you to several webpages.         
